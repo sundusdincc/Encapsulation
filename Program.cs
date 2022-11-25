@@ -41,7 +41,7 @@
         ReadDepartment d = new ReadDepartment("COMPUTERSCIENCE");
         Console.WriteLine("The Department is: {0}", d.Departname);
 
-        //Example-3
+        //Example-4
         WriteDepartment b = new WriteDepartment();
         b.Departname = "COMPUTERSCIENCE";
 
