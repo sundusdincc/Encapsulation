@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
